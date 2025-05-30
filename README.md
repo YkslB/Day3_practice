@@ -13,3 +13,7 @@ we will practice the following
 - ***ONE:*** opens pull request and adds partner as reviewer
 #### Code Review
 - ***TWO:*** reviews changes and approves pull request
+
+
+CHANGES1 
+CHANGES2
