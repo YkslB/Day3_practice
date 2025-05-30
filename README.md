@@ -1,5 +1,6 @@
 # Day3_practice
 ## It's a day 3 practice 
+
 we will practice the following 
 * creates new public repo on github with README.md, .gitignore, and Licence (MIT): Done
 *  Invites partner as collaborator: done
