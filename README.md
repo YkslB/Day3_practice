@@ -1,6 +1,6 @@
 # Day3_practice
 ## It's a day 3 practice 
-we will practice the following 
+ollo will practice the following 
 * creates new public repo on github with README.md, .gitignore, and Licence (MIT)
 *  Invites partner as collaborator
 *   Clone it to your machine
