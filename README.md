@@ -1,7 +1,7 @@
 # Day3_practice
 ## It's a day 3 practice 
 
-we will practice the following 
+Ollo, Zira, Sindo and Yüksel will practice the following 
 * creates new public repo on github with README.md, .gitignore, and Licence (MIT): Done
 *  Invites partner as collaborator: done
 *   Clone it to your machine: I did already 
@@ -22,3 +22,5 @@ REALLY
 CHANGES1 
 CHANGES2
 main
+
+I think I understand...
